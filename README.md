@@ -9,4 +9,4 @@ This is a weather web app made purely from HTML5, CSS3 and Javascript. It uses c
 Apart from giving the current weather details it also gives a detailed hourly forecast as well as five-day forecast. <br><br> This web app is supported in all devices. 
 
 <br>
-<!--<a href="">Click to view</a>-->
+<a href="https://lunatic5578.github.io/Weather_WebApp/">Click here to view</a>
